@@ -11,18 +11,18 @@
             "downloadURL": "https://github.com/BreadShortage/ilikemen/releases/download/release/Super.Cat.Tales.1.2.ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "https://github.com/BreadShortage/ilikemen/blob/main/icons/20230730_203824.jpg?raw=true"
+            "iconURL": "https://github.com/BreadShortage/ilikemen/blob/main/icons/Icon-Iphone-120.png"
         },
         {
-            "name": "YTMusicUltimate",
-            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "name": "Super Cat Tales Satella",
+            "bundleIdentifier": "com.FDGEntertainment.SuperCatBrosjail.ios",
             "version": "1.5.2-6.26.0",
             "versionDate": "2023-11-04",
             "size": 68608808,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-04-2023/YTMusicUltimate-1.5.2-6.26.0.ipa",
+            "downloadURL": "",
             "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
+            "localizedDescription": "injected with Satella Jailed",
+            "iconURL": "https://github.com/BreadShortage/ilikemen/blob/main/icons/Icon-Iphone-120.png"
         }
     ]
 }

@@ -7,22 +7,99 @@
             "name": "Super Cat Tales",
             "bundleIdentifier": "com.FDGEntertainment.SuperCatBros.ios",
             "version": "1.2.7",
-            "size": 9999999999999999999,
+            "size": 149,
             "downloadURL": "https://github.com/BreadShortage/ilikemen/releases/download/release/Super.Cat.Tales.1.2.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/BreadShortage/ilikemen/48ada175273f30ad29b57b09068a6cddd8341f1c/icons/Icon-Iphone-120.png"
         },
         {
-            "name": "Super Cat Tales Satella",
-            "bundleIdentifier": "com.FDGEntertainment.SuperCatBrosjail.ios",
-            "version": "1.5.2-6.26.0",
-            "versionDate": "2023-11-04",
+            "name": "Sniper 3D",
+            "bundleIdentifier": "com.fungames.sniper3d",
+            "version": "4.30.3",
+            "versionDate": "",
             "size": 68608808,
             "downloadURL": "",
             "developerName": "",
-            "localizedDescription": "injected with Satella Jailed",
+            "localizedDescription": "Sniper 3D",
             "iconURL": "https://github.com/BreadShortage/ilikemen/blob/main/icons/Icon-Iphone-120.png"
-        }
+        },
+        {
+            "name": "Cats & Soup",
+            "bundleIdentifier": "com.hidea.cat",
+            "version": "2.29.0",
+            "versionDate": "",
+            "size": 170,
+            "downloadURL": "",
+            "developerName": "",
+            "localizedDescription": "Cats & Soup",
+            "iconURL": "https://github.com/BreadShortage/ilikemen/blob/main/icons/Icon-Iphone-120.png"
+        },
+        {
+            "name": "Jetpack Joyride 2",
+            "bundleIdentifier": "jp.com",
+            "version": "",
+            "versionDate": "",
+            "size": 2607,
+            "downloadURL": "",
+            "developerName": "",
+            "localizedDescription": "Jetpack Joyride 2",
+            "iconURL": "https://github.com/BreadShortage/ilikemen/blob/main/icons/Icon-Iphone-120.png"
+        },
+        {
+            "name": "Pou",
+            "bundleIdentifier": "pou.com",
+            "version": "1.4.115",
+            "versionDate": "",
+            "size": 29,
+            "downloadURL": "",
+            "developerName": "",
+            "localizedDescription": "pou",
+            "iconURL": "https://github.com/BreadShortage/ilikemen/blob/main/icons/Icon-Iphone-120.png"
+        },
+        {
+            "name": "Pou",
+            "bundleIdentifier": "pou.com",
+            "version": "1.4.115",
+            "versionDate": "",
+            "size": 29,
+            "downloadURL": "",
+            "developerName": "",
+            "localizedDescription": "pou",
+            "iconURL": "https://github.com/BreadShortage/ilikemen/blob/main/icons/Icon-Iphone-120.png"
+        },
+        {
+            "name": "弓箭传说 - KamoHacks[0.23.0]",
+            "bundleIdentifier": "kamo.com",
+            "version": "0.23.0",
+            "versionDate": "",
+            "size": 255,
+            "downloadURL": "",
+            "developerName": "",
+            "localizedDescription": "archero china?",
+            "iconURL": "https://github.com/BreadShortage/ilikemen/blob/main/icons/Icon-Iphone-120.png"
+        },
+        {
+            "name": "templerun2",
+            "bundleIdentifier": "com.imangi.templerun2.cn",
+            "version": "7.1.1",
+            "versionDate": "",
+            "size": 147,
+            "downloadURL": "",
+            "developerName": "",
+            "localizedDescription": "templerun2 cn?",
+            "iconURL": "https://github.com/BreadShortage/ilikemen/blob/main/icons/Icon-Iphone-120.png"
+        },
+        {
+            "name": "tankstars",
+            "bundleIdentifier": "com.playgendary.tankstars",
+            "version": "1.92",
+            "versionDate": "",
+            "size": 29,
+            "downloadURL": "",
+            "developerName": "",
+            "localizedDescription": "tankstars",
+            "iconURL": "https://github.com/BreadShortage/ilikemen/blob/main/icons/Icon-Iphone-120.png"
+        },
     ]
 }
